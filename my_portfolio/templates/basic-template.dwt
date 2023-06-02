@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled ocument</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://use.typekit.net/sjn4lcu.css">
+	<link rel="stylesheet" href="https://use.typekit.net/sjn4lcu.css">
+	<link rel="stylesheet" href="https://use.typekit.net/sjn4lcu.css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header> </header>
+  <nav>
+	<ul>
+		<li><a href="../pages/about.html">About</a></li>
+		<li><a href="../pages/blog.html">Blog</a></li>
+		<li><a href="../pages/gallery.html">Gallery</a></li>
+		<li><a href="../pages/contact.html">Contact</a></li>
+	  </ul>
+	
+	</nav>
+  <!--Begin Floated Elements-->
+		<!-- TemplateBeginEditable name="aside" -->
+  <aside><h3>Hi I'm SaraBeth I love hanging out with my friends, meeting new people, and exploring new places</h3>
+	  
+	  <h3>Join me as I explore the world</h3>
+	  
+	  <h3>by SaraBeth Raso</h3>
+	
+	</aside>
+	<!-- TemplateEndEditable -->
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1> Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End Floated elements-->
+  <footer> <h3 class="sitemap"><a href="../pages/sitemap.html">Site Map</a></h3></footer>
+</div>
+</body>
+</html>
